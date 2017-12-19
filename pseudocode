@@ -1,0 +1,33 @@
+Create HTML
+	1.	div - animal buttons
+	2.	form - 
+		i.	label - Add an animal
+		ii.	input - type = text
+		iii.	input - type = submit
+	3.	div
+
+JS-JQuery
+	1.	on window load
+		i.	display buttons of animals
+			a.	will have to make an array of animals
+			b.	will have to make a button for each animal
+				loop through array 
+			c.	add text of names to each button
+				during same loop 
+	2.	on click of displayed buttons
+		i.	display 10 gifs
+			a.	will have to link to giphy API
+		ii.	display ratings for each of the gifs
+		iii.	when click on new button 
+			a.	old gifs are removed
+			b.	new gifs are added
+	3.	on click of displayed gifs
+		i.	start animation
+		ii.	stop animation
+	4.	input new animal on submit button click
+		i.	will add new button 
+
+		Questions for Tutor:
+		1. Is my query selector URL in the correct format
+		2.	Is my function set up correctly
+		3.	How do I pass the value from the button to the query selector in the giphy api
