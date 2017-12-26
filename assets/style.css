@@ -1,0 +1,16 @@
+.animalBtnClass{
+	margin: 5px;
+	background: #FC4A1A;
+	color: white;
+	font-weight: bold;
+}
+#inputArea{
+	margin: 10px;
+}
+body{
+	background: #4ABDAC;
+}
+#addAnimal{
+	background: #F7B733;
+	color: white;
+}

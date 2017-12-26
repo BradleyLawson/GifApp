@@ -31,3 +31,7 @@ JS-JQuery
 		1. Is my query selector URL in the correct format
 		2.	Is my function set up correctly
 		3.	How do I pass the value from the button to the query selector in the giphy api
+
+		for ( var j = 0; j < response.data.length; j++){
+		
+		}
